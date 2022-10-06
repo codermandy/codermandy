@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codermandy
-- 👀 I’m interested in web development, cloud computing and machine learning
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript, aws, React
 - 💞️ I’m looking to collaborate on open source development 
 - 📫 How to reach me kamramohit96@gmail.com
