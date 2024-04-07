@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codermandy
+- 👋 Hi, I’m @MohitK
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning python & Devops tools
 - 💞️ I’m looking to collaborate on open source development 
